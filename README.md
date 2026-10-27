@@ -2,7 +2,6 @@
 
 [![Arduino Board](https://img.shields.io/badge/Board-Arduino%20Uno%20R4%20WiFi-blue?logo=arduino)](https://store.arduino.cc/products/uno-r4-wifi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Security: Defensive](https://img.shields.io/badge/Security-Blue%20Team%2--Defensive-success)]()
 
 A lightweight, plug-and-play **hardware-based network tripwire and decoy honeypot** built entirely on the bare **Arduino Uno R4 WiFi**. Designed for local subnets, this node emulates high-value enterprise services to instantly log unauthorized reconnaissance, port scans, and lateral movement with near-zero false positives.
 
