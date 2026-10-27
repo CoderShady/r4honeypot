@@ -1,0 +1,14 @@
+# Arduino Build Artifacts
+build/
+*.bin
+*.hex
+*.elf
+
+# Python Artifacts
+__pycache__/
+*.pyc
+.venv/
+
+# OS Specific Junk
+.DS_Store
+Thumbs.db
